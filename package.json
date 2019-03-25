@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albasateneh/Mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albasateneh/Mongoose/issues"
+  },
+  "homepage": "https://github.com/albasateneh/Mongoose#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.4.19",
+    "morgan": "^1.9.1"
+  }
+}
